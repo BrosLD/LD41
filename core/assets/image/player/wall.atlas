@@ -1,0 +1,27 @@
+
+wall.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wall
+  rotate: false
+  xy: 2, 2
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: 1
+wall
+  rotate: false
+  xy: 62, 2
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: 2
+wall
+  rotate: false
+  xy: 122, 2
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: 3

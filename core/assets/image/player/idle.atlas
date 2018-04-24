@@ -1,0 +1,34 @@
+
+idle.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idle
+  rotate: false
+  xy: 2, 2
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: 1
+idle
+  rotate: false
+  xy: 40, 2
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: 2
+idle
+  rotate: false
+  xy: 40, 2
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: 4
+idle
+  rotate: false
+  xy: 78, 2
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: 3
